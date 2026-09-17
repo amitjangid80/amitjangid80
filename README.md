@@ -1,3 +1,4 @@
+# Hi, I'm Amit Jangid
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amit-jangid-linked-in/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@jangidamit800) 
@@ -7,7 +8,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=amitjangid80&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+
 ![](https://streak-stats.demolab.com/?user=amitjangid80&theme=dark&hide_border=false)<br/><br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=amitjangid80&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
